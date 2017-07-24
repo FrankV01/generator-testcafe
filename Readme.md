@@ -6,7 +6,7 @@
 You'll need to install Yeoman and this package. 
 
 ```
-npm install -g yeoman
+npm install -g yo
 npm install -g generator-testcafe
 ```
 
