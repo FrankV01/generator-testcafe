@@ -1,0 +1,11 @@
+{
+  "name": "testcafe-generator",
+  "version": "1.0.0",
+  "description": "Yeoman generator for testcafe",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank Villasenor",
+  "license": "MIT"
+}
