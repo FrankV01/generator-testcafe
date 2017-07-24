@@ -13,6 +13,7 @@
   },
   "author": "Frank Villasenor <frank.villasenor@gmail.com>",
   "license": "MIT",
+  "repository": "FrankV01/generator-testcafe",
   "dependencies": {
     "yeoman-generator": "^1.1.1"
   }
