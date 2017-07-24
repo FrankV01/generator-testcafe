@@ -5,10 +5,15 @@
   "files": [
     "generators"
   ],
-  "keywords": ["yeoman-generator"],
+  "keywords": [
+    "yeoman-generator"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Frank Villasenor <frank.villasenor@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
 }
