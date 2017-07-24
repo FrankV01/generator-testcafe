@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node app.js",
+    "doc": "node_modules/.bin/jsdoc -c jsdoc.config.json"
+  },
+  "dependencies": {
+    "jsdoc": "^3.4.3",
+    "jsdoc-strip-async-await": "^0.1.0",
+    "testcafe": "^0.15.0-alpha1",
+    "debug": "^2.6.8",
+    "pinkie": "^2.0.4"
+  }
+}
